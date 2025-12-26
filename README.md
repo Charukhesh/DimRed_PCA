@@ -1,6 +1,4 @@
 # The Mushroom Mystery: A Data Adventure in Dimensionality Reduction using PCA
-**Author:** Charukhesh  
-**Roll No:** AE22B028
 
 ## 📖 Project Overview
 
@@ -9,7 +7,7 @@ This notebook explores dimensionality reduction using Principal Component Analys
 ## 📁 File Structure
 
 ```
-assignment-2-Charukhesh/
+DimRed_PCA/
 │
 ├── main.ipynb         # The main Jupyter notebook (all code, analysis, and plots)
 ├── mushrooms_dataset/
